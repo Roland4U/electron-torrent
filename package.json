@@ -76,7 +76,7 @@
     "md5": "^2.0.0",
     "mkdirp": "^0.3.5",
     "object-assign": "^2.1.1",
-    "open": "0.0.5",
+    "open": "7.0.3",
     "parse-torrent": "^4.0.0",
     "peer-wire-swarm": "^0.12.0",
     "random-access-file": "^0.3.1",
