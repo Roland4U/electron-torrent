@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "bitfield": "^0.1.0",
-    "bittorrent-dht": "^3.0.0",
+    "bittorrent-dht": "^10.0.0",
     "bittorrent-tracker": "^2.6.0",
     "bncode": "^0.5.2",
     "bootstrap-sass": "^3.3.5",
